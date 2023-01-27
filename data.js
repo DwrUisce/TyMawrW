@@ -127,8 +127,8 @@ var APP_DATA = {
         {
           "yaw": -2.305900716590891,
           "pitch": -0.10547943308875318,
-          "title": "<span style=\"font-family: Calibri, sans-serif; font-size: 14.6667px; background-color: rgba(58, 68, 84, 0.8);\">Tŷ’r Gofalwr</span>",
-          "text": "<div>Dyma<span style=\"font-family: Calibri, sans-serif; font-size: 11pt;\">'r&nbsp;</span>d<span style=\"font-family: Calibri, sans-serif; font-size: 11pt;\">ŷ</span></div>"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">Tŷ’r Gofalwr</span>",
+          "text": "<p class=\"MsoNormal\"><span lang=\"CY\">&nbsp;Llety ar gyfer gofalwr a\nbenodwyd gan yr Ymddiriedolaeth Genedlaethol.</span><span lang=\"EN-US\"><o:p></o:p></span></p>"
         }
       ]
     },
