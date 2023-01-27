@@ -171,7 +171,7 @@ var APP_DATA = {
           "yaw": -2.521032085706601,
           "pitch": -0.05085770991978045,
           "rotation": 0,
-          "target": "2-y-mewnlif-or-afon"
+          "target": "1-y-pwerdy"
         }
       ],
       "infoHotspots": [
