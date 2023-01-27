@@ -199,7 +199,7 @@ var APP_DATA = {
   "name": "Tŷ Mawr Wybrnant",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
