@@ -46,13 +46,13 @@ var APP_DATA = {
         {
           "yaw": -2.136023941337461,
           "pitch": -0.4502131701951342,
-          "title": "<span lang=\"CY\" style=\"font-size:11.0pt;line-height:\n107%;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;\nmso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:CY;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">Neges o Groeso</span>",
-          "text": "<p class=\"MsoNormal\"><span lang=\"CY\">Croeso i daith rithiol\no amgylch system tyrbin dŵr Tŷ Mawr Wybrnant. Mae'r system hon yn ffordd o\narddangos y potensial i gynhyrchu trydan dŵr ar gyfer hunan-ddefnydd a hynny\nmewn modd glân a chost-effeithiol.</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span lang=\"CY\">Mae’r project hwn yn gydweithrediad\nrhwng Prifysgol Bangor, Coleg y Drindod Dulyn, a’r Ymddiriedolaeth\nGenedlaethol. Fe’i gwnaed yn bosibl oherwydd cymorth gan Raglen Interreg ERDF\nCymru-Iwerddon 2014-2020, drwy’r Project Dŵr Uisce.</span><span lang=\"EN-US\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span lang=\"CY\"><br></span></p><p class=\"MsoNormal\"><span lang=\"CY\"></span></p><p class=\"MsoNormal\"><span lang=\"CY\">I fwrw ymlaen â'r daith, ewch i'r\npwerdy neu at y mewnlif o’r afon trwy glicio ar yr arwyddion ^.&nbsp;</span><span lang=\"EN-US\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span lang=\"CY\"><br></span></p>"
+          "title": "Neges o Groeso",
+          "text": "Croeso i daith rithiol\no amgylch system tyrbin dŵr Tŷ Mawr Wybrnant. Mae'r system hon yn ffordd o\narddangos y potensial i gynhyrchu trydan dŵr ar gyfer hunan-ddefnydd a hynny\nmewn modd glân a chost-effeithiol.</span><span lang=\"EN-US\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span lang=\"CY\">Mae’r project hwn yn gydweithrediad\nrhwng Prifysgol Bangor, Coleg y Drindod Dulyn, a’r Ymddiriedolaeth\nGenedlaethol. Fe’i gwnaed yn bosibl oherwydd cymorth gan Raglen Interreg ERDF\nCymru-Iwerddon 2014-2020, drwy’r Project Dŵr Uisce.</span><span lang=\"EN-US\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span lang=\"CY\"><br></span></p><p class=\"MsoNormal\"><span lang=\"CY\"></span></p><p class=\"MsoNormal\"><span lang=\"CY\">I fwrw ymlaen â'r daith, ewch i'r\npwerdy neu at y mewnlif o’r afon trwy glicio ar yr arwyddion."
         },
         {
           "yaw": -3.0938749273763086,
           "pitch": -0.05893037784843358,
-          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">Tŷ Mawr Wybrnant</span>",
+          "title": "Tŷ Mawr Wybrnant",
           "text": "<p class=\"MsoNormal\"><span lang=\"CY\">Mae ffermdy hanesyddol Tŷ Mawr\nWybrnant, a adeiladwyd yn yr 16eg ganrif, yn atyniad twristaidd adnabyddus a\nchaiff ei reoli gan yr Ymddiriedolaeth Genedlaethol. Mewn ymdrech i ddefnyddio\nllai o ynni i oleuo a gwresogi'r adeilad, gosodwyd system ynni dŵr bychan i\ngynhyrchu tua 4 cilowat gan ddefnyddio dŵr afon Wybrnant gerllaw. Mae dŵr yn\ncael ei dynnu o'r afon ar dir uwch (+35m) ac yna'n cael ei gludo trwy bibell\n300m o hyd at y pwerdy. Ar ôl cynhyrchu trydan yn y tyrbin, mae'r dŵr yn\nailymuno â'r nant gerllaw’r ffermdy hanesyddol.</span><span lang=\"EN-US\"><o:p></o:p></span></p>"
         },
         {
@@ -127,8 +127,8 @@ var APP_DATA = {
         {
           "yaw": -2.305900716590891,
           "pitch": -0.10547943308875318,
-          "title": "<span style=\"font-family: Calibri, sans-serif; font-size: 14.6667px; background-color: rgba(58, 68, 84, 0.8);\">Tŷ’r Gofalwr</span>",
-          "text": "<div>Dyma<span style=\"font-family: Calibri, sans-serif; font-size: 11pt;\">'r&nbsp;</span>d<span style=\"font-family: Calibri, sans-serif; font-size: 11pt;\">ŷ</span></div>"
+	    "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">Tŷ’r Gofalwr</span>",
+          "text": "<p class=\"MsoNormal\"><span lang=\"CY\">&nbsp;Llety ar gyfer gofalwr a\nbenodwyd gan yr Ymddiriedolaeth Genedlaethol.</span><span lang=\
         }
       ]
     },
@@ -199,7 +199,7 @@ var APP_DATA = {
   "name": "Tŷ Mawr Wybrnant",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
